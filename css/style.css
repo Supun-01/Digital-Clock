@@ -1,0 +1,6 @@
+.centered-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This will make sure the content is centered vertically */
+}
